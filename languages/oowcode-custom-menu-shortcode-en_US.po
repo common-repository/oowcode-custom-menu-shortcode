@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: OOWCODE Custom Menu Shortcode\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-10-05 16:52+0000\n"
+"PO-Revision-Date: 2024-10-05 16:55+0000\n"
+"Last-Translator: David OOWCODE\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
+"X-Domain: oowcode-custom-menu-shortcode"
+
+#: oowcode-shortcode-menu.php:77
+msgid ""
+"[oowcode_custom_menu name=\"main-menu\" style=\"inline\" separator=\" - \"]"
+msgstr ""
+"[oowcode_custom_menu name=\"main-menu\" style=\"inline\" separator=\" - \"]"
+
+#: oowcode-shortcode-menu.php:76
+msgid "[oowcode_custom_menu name=\"main-menu\"]"
+msgstr "[oowcode_custom_menu name=\"main-menu\"]"
+
+#: oowcode-shortcode-menu.php:65
+msgid "[oowcode_custom_menu name=\"your-menu-slug\"]"
+msgstr "[oowcode_custom_menu name=\"your-menu-slug\"]"
+
+#. Description of the plugin
+msgid ""
+"A powerful tool that allows users to customize and display WordPress menus "
+"with full flexibility using a shortcode. Easily configure inline options "
+"like menu style and separators for tailored display. No coding required."
+msgstr ""
+"A powerful tool that allows users to customize and display WordPress menus "
+"with full flexibility using a shortcode. Easily configure inline options "
+"like menu style and separators for tailored display. No coding required."
+
+#: oowcode-shortcode-menu.php:70
+msgid "Add a custom CSS class to the menu container."
+msgstr "Add a custom CSS class to the menu container."
+
+#: oowcode-shortcode-menu.php:70
+msgid "class"
+msgstr "class"
+
+#: oowcode-shortcode-menu.php:72
+msgid "Define a custom separator for inline menus."
+msgstr "Define a custom separator for inline menus."
+
+#. Author URI of the plugin
+msgid "https://oowcode.com"
+msgstr "https://oowcode.com"
+
+#. URI of the plugin
+msgid "https://profiles.wordpress.org/oowpress/"
+msgstr "https://profiles.wordpress.org/oowpress/"
+
+#: oowcode-shortcode-menu.php:80
+msgid ""
+"Insert the shortcode in your posts, pages, or widgets to display your menus "
+"with full customization. For support, visit"
+msgstr ""
+"Insert the shortcode in your posts, pages, or widgets to display your menus "
+"with full customization. For support, visit"
+
+#: oowcode-shortcode-menu.php:113
+msgid "Menu not found. Please check the menu name or slug."
+msgstr "Menu not found. Please check the menu name or slug."
+
+#: oowcode-shortcode-menu.php:69
+msgid "name"
+msgstr "name"
+
+#: oowcode-shortcode-menu.php:80
+msgid "OOWCODE"
+msgstr "OOWCODE"
+
+#. Name of the plugin
+msgid "OOWCODE Custom Menu Shortcode"
+msgstr "OOWCODE Custom Menu Shortcode"
+
+#. Author of the plugin
+msgid "oowpress"
+msgstr "oowpress"
+
+#: oowcode-shortcode-menu.php:70
+msgid "optional"
+msgstr "optional"
+
+#: oowcode-shortcode-menu.php:71
+msgid "optional, default: list"
+msgstr "optional, default: list"
+
+#: oowcode-shortcode-menu.php:72
+msgid "optional, default: |"
+msgstr "optional, default: |"
+
+#: oowcode-shortcode-menu.php:107
+msgid "Please specify a menu name or slug."
+msgstr "Please specify a menu name or slug."
+
+#: oowcode-shortcode-menu.php:76
+msgid "Renders the menu as a list (default)."
+msgstr "Renders the menu as a list (default)."
+
+#: oowcode-shortcode-menu.php:77
+msgid "Renders the menu inline with a custom separator."
+msgstr "Renders the menu inline with a custom separator."
+
+#: oowcode-shortcode-menu.php:69
+msgid "required"
+msgstr "required"
+
+#: oowcode-shortcode-menu.php:72
+msgid "separator"
+msgstr "separator"
+
+#: oowcode-shortcode-menu.php:71
+msgid "Set to \"inline\" for an inline menu with a separator."
+msgstr "Set to \"inline\" for an inline menu with a separator."
+
+#: oowcode-shortcode-menu.php:71
+msgid "style"
+msgstr "style"
+
+#: oowcode-shortcode-menu.php:69
+msgid "The name or slug of the menu to display."
+msgstr "The name or slug of the menu to display."
+
+#: oowcode-shortcode-menu.php:62
+msgid ""
+"Welcome to the OOWCODE Custom Menu Shortcode plugin. This tool allows you to "
+"display WordPress menus in custom formats using simple shortcodes. No need "
+"for complex settings—just add the shortcode where you want the menu to "
+"appear!"
+msgstr ""
+"Welcome to the OOWCODE Custom Menu Shortcode plugin. This tool allows you to "
+"display WordPress menus in custom formats using simple shortcodes. No need "
+"for complex settings—just add the shortcode where you want the menu to "
+"appear!"
+
+#: oowcode-shortcode-menu.php:60
+msgid "✨ OOWCODE Custom Menu Shortcode"
+msgstr "✨ OOWCODE Custom Menu Shortcode"
+
+#: oowcode-shortcode-menu.php:64
+msgid "🎯 Basic Shortcode Usage:"
+msgstr "🎯 Basic Shortcode Usage:"
+
+#: oowcode-shortcode-menu.php:75
+msgid "💡 Examples:"
+msgstr "💡 Examples:"
+
+#: oowcode-shortcode-menu.php:79
+msgid "🚀 Get Started Now!"
+msgstr "🚀 Get Started Now!"
+
+#: oowcode-shortcode-menu.php:67
+msgid "🛠️ Available Attributes:"
+msgstr "🛠️ Available Attributes:"
